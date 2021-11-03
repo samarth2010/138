@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+    float: left;
+}
+.heading button
+{
+    float: right;
+    border: 1px dotted whitesmoke;
+}
+.bi
+{
+    width: 100%;
+}
+.b
+{
+font-size:25px;
+}
